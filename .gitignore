@@ -1,0 +1,5 @@
+# Local vault config must never be committed
+vaults.json
+*.kdbx
+*.key
+*.keyx
