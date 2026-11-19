@@ -27,7 +27,7 @@
 	PrivateData = @{
 		PSData = @{
 			Tags       = @('KeePass', 'Credential', 'Remoting', 'PSRemoting', 'Windows')
-			ProjectUri = 'https://github.com/abalmaseda/KeePassCredential'
+			ProjectUri = 'https://github.com/Eryx5502/KeePassCredential'
 		}
 	}
 }
